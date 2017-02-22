@@ -1,16 +1,16 @@
 # kaldi-learn
 
-This repo is for my study with kaldi on asr
+This repo is for my study with kaldi on asr.
 
-# egs
+## egs
 
 The dirs contained in the `egs` is the example I write, you can put then to `KALDI_ROOT/egs` if you want to run or modify it on your own mechine.
 
-# data
+## data
 
 The dir `data` contains several dataset which is needed by the srcipts in `egs`.
 
-# About me
+## about
 
 I am currently a senior undergraduate student at Department of Electronic, Tsinghua University (B.Eng. expected July 2017), majoring in Electronic Information Science and Technology. And I'm going to study my for Master in the next three years in our department.
 
