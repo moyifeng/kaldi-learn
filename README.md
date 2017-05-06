@@ -14,4 +14,4 @@ I am currently a senior undergraduate student at Department of Electronic, Tsing
 
 I am interested in Automatic Speech Recongnition and Deep Learning. And I am skilled in C/C++, MATLAB, Kaldi, deep learning, LaTex & etc.
 
-For more information, please visit [https://about.huanglu.me/](https://about.huanglu.me/).
+For more information, please visit [http://about.huanglu.me/](http://about.huanglu.me/).
