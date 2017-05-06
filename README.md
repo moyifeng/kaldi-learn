@@ -1,10 +1,8 @@
-# kaldi-learn
-
 This repo is for my study with kaldi on asr.
 
 ## egs
 
-The dirs contained in the `egs` is the example I write, you can put then to `KALDI_ROOT/egs` if you want to run or modify it on your own mechine.
+The dirs contained in the `egs/` is the example I write, you can put them to `KALDI_ROOT/egs/` if you want to run or modify it on your own mechine.
 
 ## data
 
@@ -16,4 +14,4 @@ I am currently a senior undergraduate student at Department of Electronic, Tsing
 
 I am interested in Automatic Speech Recongnition, Deep Learning, Image Processing. And I am skilled in C/C++, Python, MATLAB, Swift & Objective-C (iOS development), algorithm, machine learning, LaTex & etc.
 
-For more information, please visit [https://huanglu.me/about/](https://huanglu.me/about/).
+For more information, please visit [https://about.huanglu.me/](https://about.huanglu.me/).
